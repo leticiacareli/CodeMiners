@@ -1,0 +1,3 @@
+D:/Projects/DIO/CodeMiners/#4FermentarViver/cmake-build-debug/CMakeFiles/_4FermentarViver.dir
+D:/Projects/DIO/CodeMiners/#4FermentarViver/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/DIO/CodeMiners/#4FermentarViver/cmake-build-debug/CMakeFiles/rebuild_cache.dir

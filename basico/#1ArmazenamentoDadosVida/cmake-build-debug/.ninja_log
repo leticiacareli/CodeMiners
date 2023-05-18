@@ -1,0 +1,6 @@
+# ninja log v5
+6	137	7048339867181052	CMakeFiles/CodeMiners.dir/main.c.obj	3168c8655fb7c6c7
+1	148	7048449705465206	build.ninja	e633eff783426ed7
+84	201	7048345558027057	CodeMiners.exe	740110401c3441a6
+2	84	7048345556898746	CMakeFiles/CodeMiners.dir/armazenamentoDados.c.obj	76747e57f59dc290
+2	136	7048450256406786	CMakeFiles/CodeMiners.dir/palavrasTemPoder.c.obj	9c15400fd2df435d

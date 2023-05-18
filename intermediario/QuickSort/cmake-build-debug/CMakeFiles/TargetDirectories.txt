@@ -1,0 +1,3 @@
+D:/Projects/DIO/CodeMiners/intermediario/QuickSort/cmake-build-debug/CMakeFiles/QuickSort.dir
+D:/Projects/DIO/CodeMiners/intermediario/QuickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/DIO/CodeMiners/intermediario/QuickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

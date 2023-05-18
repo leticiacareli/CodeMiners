@@ -1,0 +1,3 @@
+D:/Projects/DIO/CodeMiners/#2PalavrasTemPoder/cmake-build-debug/CMakeFiles/_2___PalavrasTemPoder.dir
+D:/Projects/DIO/CodeMiners/#2PalavrasTemPoder/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/DIO/CodeMiners/#2PalavrasTemPoder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Projects/DIO/CodeMiners/avancado/cmake-build-debug/CMakeFiles/avancado.dir
+D:/Projects/DIO/CodeMiners/avancado/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/DIO/CodeMiners/avancado/cmake-build-debug/CMakeFiles/rebuild_cache.dir

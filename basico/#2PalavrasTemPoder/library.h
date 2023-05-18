@@ -1,0 +1,6 @@
+#ifndef _2___PALAVRASTEMPODER_LIBRARY_H
+#define _2___PALAVRASTEMPODER_LIBRARY_H
+
+void hello(void);
+
+#endif //_2___PALAVRASTEMPODER_LIBRARY_H
